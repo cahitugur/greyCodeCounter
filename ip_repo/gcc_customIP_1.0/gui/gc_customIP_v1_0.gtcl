@@ -1,0 +1,3 @@
+# This file is automatically written.  Do not modify.
+proc gen_USERPARAMETER_C_GRAY_COUNTER_WIDTH_ENABLEMENT {C_GRAY_COUNTER_TYPE } {expr $C_GRAY_COUNTER_TYPE != 0}
+proc gen_USERPARAMETER_C_GRAY_COUNTER_WIDTH_VALUE {C_GRAY_COUNTER_TYPE } {expr $C_GRAY_COUNTER_TYPE == 0 ? 4 : 8}
