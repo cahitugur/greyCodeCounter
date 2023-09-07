@@ -1,4 +1,0 @@
-NumberHits:0
-Timestamp: Wed Sep 06 21:50:15 UTC 2023
-VLNV: xilinx.com:ip:axi_fifo_mm_s:4.1
-SynthRuntime: 245

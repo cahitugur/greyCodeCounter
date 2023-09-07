@@ -1,4 +1,0 @@
-NumberHits:0
-Timestamp: Wed Sep 06 21:51:28 UTC 2023
-VLNV: xilinx.com:ip:jtag_axi:1.2
-SynthRuntime: 318
